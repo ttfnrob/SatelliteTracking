@@ -11,7 +11,7 @@ With a few simple arguments the file can slightly alter the returned output in K
 - _hor_ Boolean Y or N to show satellite's horizon (Y)
 - _path_ Integer number of hours to shown future path of satellite (2)
 - _ex_ Boolean Y or N to show line connecting satellite to ground (N)
-- _icon_ URL path to icon for the satellite in Google Earth (http://resources.orbitingfrog.com/<<ID>>.png)
+- _icon_ URL path to icon for the satellite in Google Earth (http://resources.orbitingfrog.com/ID_OF_SATELLITE.png)
 
 ### Perl Packages Required
 
